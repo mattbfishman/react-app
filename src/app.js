@@ -1,9 +1,9 @@
 import React from "react";
 import { render } from "react-dom";
 
-import { Navbar } from "./navbar/navbar.js";
-import { Landing } from "./landing/landing.js";
-import { Login } from "./login/login.js";
+import { Navbar } from "./components/navbar/navbar.js";
+import { Landing } from "./components/landing/landing.js";
+import { Login } from "./components/login/login.js";
 
 import {Route} from 'react-router-dom';
 
